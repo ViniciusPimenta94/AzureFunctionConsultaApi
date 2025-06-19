@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ConsultaAPI - Azure Function
 
 Este projeto é uma Azure Function desenvolvida em C# que consulta uma API externa e processa a resposta para fins de integração.
@@ -39,6 +40,10 @@ dotnet run --project FunctionApp/FunctionApp.csproj
 - `Function.cs`: lógica da Azure Function
 - `FunctionApp.csproj`: definição do projeto .NET
 - `local.settings.json`: configurações locais (não deve ser commitado)
+=======
+# AzureFunctionConsultaApi
+Azure Function em C# que realiza chamadas para uma API externa, processando os dados retornados para uso interno ou integração com outros sistemas. Ideal para automações baseadas em eventos ou integrações simples.
+>>>>>>> 222d234a838773c6b489ee8934bac7de3035241b
 =======
 # AzureFunctionConsultaApi
 Azure Function em C# que realiza chamadas para uma API externa, processando os dados retornados para uso interno ou integração com outros sistemas. Ideal para automações baseadas em eventos ou integrações simples.
