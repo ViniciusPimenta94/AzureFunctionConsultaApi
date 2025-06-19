@@ -1,0 +1,25 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build e temporários
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Configurações locais
+local.settings.json
+
+# Sistema
+*.DS_Store
+*.tmp
+*.sqlite
+*.bak
+*.zip
